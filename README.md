@@ -35,7 +35,7 @@ Here are some of the projects I've built using Python:
 
 - 📍 Berlin, Germany  
 - 📧 meric.polat25@gmail.com  
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/meric-olcan-polat](https://www.linkedin.com/in/meric-olcan-polat-7543a8348/)](https://www.linkedin.com/in/meric-olcan-polat-7543a8348/)) 
+- 🔗 [LinkedIn](https://www.linkedin.com/in/meric-olcan-polat-7543a8348/)
 - 🐙 [GitHub](https://github.com/Meric-25)
 
 ---
