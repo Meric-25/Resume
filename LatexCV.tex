@@ -1,0 +1,65 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{geometry}
+\geometry{margin=1in}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{hyperref}
+
+\titleformat{\section}{\large\bfseries}{}{0em}{}
+
+\begin{document}
+
+\begin{center}
+    {\LARGE \textbf{Your Name}}\\
+    \vspace{0.2cm}
+    \href{mailto:your.email@example.com}{your.email@example.com} | +1 234 567 8900 | City, Country \\
+    \href{https://linkedin.com/in/yourprofile}{linkedin.com/in/yourprofile} | 
+    \href{https://github.com/yourusername}{github.com/yourusername}
+\end{center}
+
+\vspace{0.5cm}
+
+\section*{Education}
+\textbf{University Name}, City, Country \\
+\textit{Degree Name, Field of Study} \hfill \textbf{YYYY--YYYY} \\
+GPA: X.XX / 4.00 (if applicable)
+
+\vspace{0.3cm}
+
+\section*{Experience}
+\textbf{Company Name}, City, Country \\
+\textit{Job Title} \hfill \textbf{YYYY--YYYY} \\
+\begin{itemize}[leftmargin=1.5em]
+    \item Responsibility or achievement
+    \item Another responsibility or impact
+    \item Technologies used: Python, SQL, etc.
+\end{itemize}
+
+\vspace{0.3cm}
+
+\section*{Projects}
+\textbf{Project Title} – \href{https://github.com/projectrepo}{GitHub Repo} \\
+Brief description of the project. Technologies used: React, Flask, etc.
+
+\vspace{0.3cm}
+
+\section*{Skills}
+\begin{tabular}{ll}
+    Programming: & Python, Java, C++ \\
+    Tools: & Git, Docker, Linux \\
+    Languages: & English (Fluent), Spanish (Intermediate)
+\end{tabular}
+
+\vspace{0.3cm}
+
+\section*{Certifications}
+\textbf{Certification Name} – Issuer \hfill \textbf{YYYY}
+
+\vspace{0.3cm}
+
+\section*{Awards}
+\textbf{Award Title} – Description \hfill \textbf{YYYY}
+
+\end{document}
