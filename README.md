@@ -23,10 +23,10 @@ Here are some of the projects I've built using Python:
 - 🎯 [**Hangman Game**](https://github.com/Meric-25/Hangmen/blob/main/Hangman.py)  
   A terminal-based word guessing game using Python basics like loops and conditionals.
 
-- 🃏 [**21 Game (Blackjack)**](https://github.com/Meric-25)  
+- 🃏 [**21 Game (Blackjack)**](https://github.com/Meric-25/Projects/blob/main/21%20game.py)  
   A simplified Blackjack game using object-oriented programming with classes for players and cards.
 
-- ✊✋✌️ [**Rock, Paper, Scissors**](https://github.com/Meric-25)  
+- ✊✋✌️ [**Rock, Paper, Scissors**](https://github.com/Meric-25/Projects/blob/main/Rock%20Paper%20Scissors.py)  
   A simple game against the computer, using random module and user input handling in Python.
 
 ---
